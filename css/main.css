@@ -584,11 +584,11 @@ span{
 }
 
 .ca-content-s4__description{
-    width: 48.72%;
+    width: 100%;
     font-size: 17px;
     font-family: 'Raleway';
     font-weight: 300;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.2px;
     margin: 10px 0 25px 0;
 }
 
